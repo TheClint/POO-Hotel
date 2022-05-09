@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+.reservation{
+    background-color: #32d296;
+    width: fit-content;
+    padding: 0 0.5em;
+}
+
+.disponible{
+    background-color: #32d296;
+    width: fit-content;
+    padding: 0 0.5em;
+}
+
+.reservee{
+    background-color: #f0506e;
+    width: fit-content;
+    padding: 0 0.5em;
+}
+
+th,td{
+    width: 25%;
+    text-align: center;
+}
